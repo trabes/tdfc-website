@@ -12,33 +12,5 @@
       "yellowCards": 2,
       "redCards": 0
     }
-  },
-  {
-    "id": "player-2",
-    "name": "Sarah Johnson",
-    "position": "Midfielder",
-    "jerseyNumber": 8,
-    "bio": "Versatile midfielder with excellent passing ability.",
-    "stats": {
-      "gamesPlayed": 14,
-      "goals": 5,
-      "assists": 11,
-      "yellowCards": 1,
-      "redCards": 0
-    }
-  },
-  {
-    "id": "player-3",
-    "name": "Mike Davis",
-    "position": "Defender",
-    "jerseyNumber": 4,
-    "bio": "Solid defender and team organizer.",
-    "stats": {
-      "gamesPlayed": 15,
-      "goals": 1,
-      "assists": 3,
-      "yellowCards": 3,
-      "redCards": 0
-    }
   }
 ]

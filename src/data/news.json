@@ -1,23 +1,23 @@
 [
   {
-    "id": "news-1",
-    "title": "2026 Spring Registration Now Open!",
+    "id": "Swarthmore Rec Sundays",
+    "title": "2026 Winter Registration Now Open!",
     "date": "2026-01-15",
-    "content": "Registration for the Spring 2026 season is now open. Sign up before February 15th to secure your spot on the team!",
+    "content": "Registration for the Winter 2026 season is now open. Sign up here -> https://www.swarthmorerecreation.org/adult-soccer/",
     "category": "registration"
   },
   {
-    "id": "news-2",
-    "title": "Season Opener Victory",
+    "id": "MSI",
+    "title": "MSI Wednesday Night Soccer League",
     "date": "2025-12-10",
-    "content": "TDFC kicked off the season with an impressive 3-1 victory against City FC. Great team performance!",
-    "category": "news"
+    "content": "MSI registration is closed for the Winter 2026 season.",
+    "category": "registration"
   },
   {
-    "id": "news-3",
-    "title": "Team Practice Schedule",
+    "id": "pottsballString26",
+    "title": "Pottsball 2026",
     "date": "2025-12-01",
-    "content": "Team practices will be held every Tuesday and Thursday at 6:00 PM at Central Park Field. All players welcome!",
-    "category": "event"
+    "content": "We are eagerly awaiting the registration of Rose Tree Media's Pottsball season in the spring. Keep an eye on Rose Tree's website. https://www.rosetreesoccer.org/Default.aspx?tabid=193636",
+    "category": "registration"
   }
 ]

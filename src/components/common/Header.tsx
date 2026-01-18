@@ -22,9 +22,6 @@ export default function Header() {
           <Link to="/stats" className="nav-link">
             Stats
           </Link>
-          <Link to="/contact" className="nav-link">
-            Contact
-          </Link>
         </nav>
       </div>
     </header>

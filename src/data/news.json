@@ -1,0 +1,23 @@
+[
+  {
+    "id": "news-1",
+    "title": "2026 Spring Registration Now Open!",
+    "date": "2026-01-15",
+    "content": "Registration for the Spring 2026 season is now open. Sign up before February 15th to secure your spot on the team!",
+    "category": "registration"
+  },
+  {
+    "id": "news-2",
+    "title": "Season Opener Victory",
+    "date": "2025-12-10",
+    "content": "TDFC kicked off the season with an impressive 3-1 victory against City FC. Great team performance!",
+    "category": "news"
+  },
+  {
+    "id": "news-3",
+    "title": "Team Practice Schedule",
+    "date": "2025-12-01",
+    "content": "Team practices will be held every Tuesday and Thursday at 6:00 PM at Central Park Field. All players welcome!",
+    "category": "event"
+  }
+]

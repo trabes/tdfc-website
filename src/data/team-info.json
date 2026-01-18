@@ -1,0 +1,16 @@
+{
+  "name": "TDFC",
+  "founded": "2015",
+  "history": "TDFC was founded in 2015 by a group of passionate soccer enthusiasts who wanted to create a welcoming community for players of all skill levels. Over the years, we've grown from a small recreational team to a competitive force in our local league, while maintaining our core values of sportsmanship, teamwork, and fun.",
+  "mission": "Our mission is to provide an inclusive and competitive soccer environment where players can develop their skills, build lasting friendships, and enjoy the beautiful game. We believe in fair play, mutual respect, and the power of sport to bring communities together.",
+  "contact": {
+    "email": "info@tdfc.com",
+    "phone": "(555) 123-4567",
+    "address": "123 Soccer Lane, Your City, ST 12345",
+    "socialMedia": {
+      "facebook": "https://facebook.com/tdfc",
+      "instagram": "https://instagram.com/tdfc",
+      "twitter": "https://twitter.com/tdfc"
+    }
+  }
+}

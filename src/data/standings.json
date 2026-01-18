@@ -1,0 +1,52 @@
+[
+  {
+    "teamName": "TDFC",
+    "gamesPlayed": 15,
+    "wins": 10,
+    "draws": 3,
+    "losses": 2,
+    "goalsFor": 35,
+    "goalsAgainst": 18,
+    "points": 33
+  },
+  {
+    "teamName": "City FC",
+    "gamesPlayed": 15,
+    "wins": 9,
+    "draws": 4,
+    "losses": 2,
+    "goalsFor": 32,
+    "goalsAgainst": 15,
+    "points": 31
+  },
+  {
+    "teamName": "United SC",
+    "gamesPlayed": 15,
+    "wins": 8,
+    "draws": 3,
+    "losses": 4,
+    "goalsFor": 28,
+    "goalsAgainst": 22,
+    "points": 27
+  },
+  {
+    "teamName": "Athletic Club",
+    "gamesPlayed": 15,
+    "wins": 6,
+    "draws": 5,
+    "losses": 4,
+    "goalsFor": 24,
+    "goalsAgainst": 20,
+    "points": 23
+  },
+  {
+    "teamName": "Rangers FC",
+    "gamesPlayed": 15,
+    "wins": 3,
+    "draws": 2,
+    "losses": 10,
+    "goalsFor": 15,
+    "goalsAgainst": 35,
+    "points": 11
+  }
+]

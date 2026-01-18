@@ -47,9 +47,6 @@ coverage
 Thumbs.db
 Desktop.ini
 
-# TanStack Router generated files
-src/routeTree.gen.ts
-
 # Temporary files
 *.tmp
 *.temp
